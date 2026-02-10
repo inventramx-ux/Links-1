@@ -21,7 +21,7 @@ export default function Home() {
 
         {/* Main card */}
         <Link
-          href="https://whop.com/checkout/plan_QDGKlwSWIj4mv"
+          href="https://t.me/MatiasTorresPublic"
           target="_blank"
           rel="noopener noreferrer"
           className="
